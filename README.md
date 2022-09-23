@@ -15,7 +15,7 @@ Moneda creada con la herramienta *OpenZeppelin* y desplegada con ayuda de *Remix
 
 # **Contrato moneda C0inLL1**
 Moneda creada con la herramienta *OpenZeppelin* y desplegada con ayuda de *Remix* usando el protocolo ***ERC 20***.
-- [Ehterscan moneda Kestocoin](https://rinkeby.etherscan.io/tx/0xb2d80ddac67305c6276dba7f7c1d6681f01f4fd9e3b4024122c76f251befc2a0)
+- [Ehterscan moneda C0inLL1](https://rinkeby.etherscan.io/tx/0xb2d80ddac67305c6276dba7f7c1d6681f01f4fd9e3b4024122c76f251befc2a0)
 
 # **Contrato certificados de curso**
 Certificado construido y desplegado con ayuda de la herramienta *Remix* y con interfaz grafica
