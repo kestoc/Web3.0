@@ -23,8 +23,9 @@ Certificado construido y desplegado con ayuda de la herramienta *Remix*
 
 ## **Interfaz Grafica**
 En la carpeta *interface* se encuentra toda la estructura de proyecto de la interfaz implementada para el contrato de certificados de curso.
-Todas las dependencias ya se encuentran en la carpeta (por eso pesa tanto el proyecto completo), por tanto, solo se debe ejecutar en la terminal, estando en la carpeta *interface* lo siguiente:
+Una vez clonado el repositorio, solo se deben ejecutar en la terminal, estando en la carpeta *interface*, los siguiente comandos:
 ```
+npm install
 npm start
 ```
 Y en la dirección `localhost:3000/?` se puede encontrar la interfaz desplegada.
