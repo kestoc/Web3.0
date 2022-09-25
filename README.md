@@ -7,7 +7,7 @@
 - Santiago Collantes Zuluaga :nerd_face:
 
 # **Enlaces de los contratos**
-A continuacion se dejaran los enlaces a la pagina Etherscan para visualizar el despliegue en la red de prueba ***Rinkeby*** de cada uno de los contratos del taller, en el apartado de *Interacted to* se puede visualizar y copiar la dirección del contrato para poder enlazarlo a su propia red.
+A continuación se dejarán los enlaces a la página Etherscan para visualizar el despliegue en la red de prueba ***Rinkeby*** de cada uno de los contratos del taller, en el apartado de *Interacted to* se puede visualizar y copiar la dirección del contrato para poder enlazarlo a su propia red.
 
 ## **Contrato moneda Kestocoin**
 Moneda creada con la herramienta *OpenZeppelin* y desplegada con ayuda de *Remix* usando el protocolo ***ERC 20***.
@@ -20,3 +20,11 @@ Moneda creada con la herramienta *OpenZeppelin* y desplegada con ayuda de *Remix
 ## **Contrato certificados de curso**
 Certificado construido y desplegado con ayuda de la herramienta *Remix*
 - [Ehterscan contrato certificados de curso](https://rinkeby.etherscan.io/address/0x8272f5ea44812c1283ce3c72ddd81764ce0e1970)
+
+## **Interfaz Grafica**
+En la carpeta *interface* se encuentra toda la estructura de proyecto de la interfaz implementada para el contrato de certificados de curso.
+Todas las dependencias ya se encuentran en la carpeta (por eso pesa tanto el proyecto completo), por tanto, solo se debe ejecutar en la terminal, estando en la carpeta *interface* lo siguiente:
+```
+npm start
+```
+Y en la dirección `localhost:3000/?` se puede encontrar la interfaz desplegada.
