@@ -19,4 +19,4 @@ Moneda creada con la herramienta *OpenZeppelin* y desplegada con ayuda de *Remix
 
 # **Contrato certificados de curso**
 Certificado construido y desplegado con ayuda de la herramienta *Remix*
-- [Ehterscan contrato certificados de curso](https://rinkeby.etherscan.io/tx/0xb710b6a6e6877f72775b7d30e68acfb2513bab2b7f04a9133093669e464198bf)
+- [Ehterscan contrato certificados de curso](https://rinkeby.etherscan.io/address/0x8272f5ea44812c1283ce3c72ddd81764ce0e1970)

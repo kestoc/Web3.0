@@ -1,0 +1,75 @@
+[
+	{
+		"inputs": [
+			{
+				"internalType": "string",
+				"name": "nombre_estudiante",
+				"type": "string"
+			},
+			{
+				"internalType": "uint256",
+				"name": "id",
+				"type": "uint256"
+			},
+			{
+				"internalType": "string",
+				"name": "fecha_participacion",
+				"type": "string"
+			},
+			{
+				"internalType": "string",
+				"name": "nombre_curso",
+				"type": "string"
+			}
+		],
+		"stateMutability": "nonpayable",
+		"type": "constructor"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "string",
+				"name": "nombre_estudiante",
+				"type": "string"
+			},
+			{
+				"internalType": "uint256",
+				"name": "id",
+				"type": "uint256"
+			},
+			{
+				"internalType": "string",
+				"name": "fecha_participacion",
+				"type": "string"
+			},
+			{
+				"internalType": "string",
+				"name": "nombre_curso",
+				"type": "string"
+			}
+		],
+		"name": "agregar_certificado",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "uint256",
+				"name": "id",
+				"type": "uint256"
+			}
+		],
+		"name": "consultar_certificado",
+		"outputs": [
+			{
+				"internalType": "bool",
+				"name": "",
+				"type": "bool"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	}
+]
