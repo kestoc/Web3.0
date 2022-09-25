@@ -43,7 +43,7 @@ export default function App() {
     const signer = await provider.getSigner();
 
     //Consulto el contrato dada su direccion de despliegue
-    const contract = new ethers.Contract(addressContract, abi, provider);
+    const contract = new ethers.Contract(addressContract, abi, signer);
     
     //Llamo la funcion del contrato para consultar por el id si el certificado esta o no registrardo
     const certificate = await contract.consultar_certificado(inputConsult);
