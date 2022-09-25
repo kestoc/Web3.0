@@ -95,7 +95,7 @@ export default function App() {
       <div>
         <div className="m-4 credit-card w-full lg:w-3/4 sm:w-auto shadow-lg mx-auto rounded-xl bg-white">
           <h1 className="text-xl font-semibold text-gray-700 text-center">
-            Consulta un certificado con se ID
+            Consulta un certificado con su ID
           </h1>
           <form>
               <div className="my-3">
